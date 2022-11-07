@@ -18,3 +18,5 @@ If you wish to find me, you can look on my [website](https://spikeyt.com/) ✨
 - [EllenTheAssistant](https://github.com/TheRealThermionic/Miku)
 - [GoogleSearcher](https://github.com/TheRealThermionic/Miku)
 - [TheIronBot](https://github.com/TheRealThermionic/Miku)
+- [DnDRoller](https://github.com/TheRealThermionic/Miku)
+- [NumberQuesser](https://github.com/TheRealThermionic/Miku)
