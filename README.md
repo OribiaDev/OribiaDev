@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi~ I'm Nate! 👋
 
-<!--
-**TheRealThermionic/TheRealThermionic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a anti social highschooler who codes sometimes 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you wish to find me, you can look on my [website](https://spikeyt.com/) ✨
+
+
+## 
+ **Projects**:
+- [Spikeyt Website](https://github.com/TheRealThermionic/spikeyt.github.io)
+- [TrinityWeapons](https://github.com/TheRealThermionic/Trinity)
+- [Miku](https://github.com/TheRealThermionic/Miku)
+- [CraftTheUncraftable](https://github.com/TheRealThermionic/CraftTheUncraftable)
+- [WackyToolsAndSuch](https://github.com/TheRealThermionic/WackyToolsAndSuch)
