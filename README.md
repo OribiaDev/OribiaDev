@@ -9,7 +9,7 @@ If you wish to find me, you can look on my [website](https://spikeyt.com/) ✨
 ## 
  **Projects**:
 - [Spikeyt](https://github.com/TheRealThermionic/spikeyt.github.io) - A portfolio/landing website for myself :3
-- [TrinityWeapons](https://github.com/TheRealThermionic/Trinity) - A Minecraft weapons mod 
+- [TrinityWeapons](https://github.com/TheRealThermionic/TrinityWeapons) - A Minecraft weapons mod 
 - [Miku](https://github.com/TheRealThermionic/Miku) - A multipuropse well polished Discord bot 
 - [CraftTheUncraftable](https://github.com/TheRealThermionic/CraftTheUncraftable) - A small Minecraft mod to craft uncraftable things
 - [WackyToolsAndSuch](https://github.com/TheRealThermionic/WackyToolsAndSuch) - A small Minecraft mod that adds a couple of new tools and blocks
