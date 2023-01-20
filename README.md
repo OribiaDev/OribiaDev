@@ -1,4 +1,4 @@
-### Hi~ I'm Nate! 👋
+### Hi~ I'm Olivia! 👋
 
 I'm a anti social highschooler who codes sometimes 
 
