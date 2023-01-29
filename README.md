@@ -22,3 +22,6 @@ If you wish to find me, you can look on my [website](https://spikeyt.com/) or my
 - [DnDRoller](https://github.com/TheRealThermionic/DnDRoller) - A Discord bot that rolls different dice for DnD; Orignally made for a friend
 - [NumberQuesser](https://github.com/TheRealThermionic/NumberGuesser) - A small Python game where you have to guess a random number
 - [AverageCalculator](https://github.com/TheRealThermionic/AverageCalculator) - A simple Python script that gets the average from a set of numbers
+
+##
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OribiaDev&theme=dark&show_icons=true)
