@@ -1,9 +1,11 @@
 ### Hi~ I'm Olivia! 👋
 
-I'm a anti social trans girl who codes sometimes <3
+* 🏳️‍⚧️ Trans Girl Programmer <3
+* 🖥️ Future CS Major
+* 🎒 Senior in HS (2023)
 
 
-If you wish to find me, you can look on my [website](https://spikeyt.com/) ✨
+If you wish to find me, you can look on my [website](https://spikeyt.com/) or my [twitter](https://twitter.com/Oribia_Dev)! ✨
 
 
 ## 
