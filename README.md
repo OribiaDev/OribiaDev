@@ -1,6 +1,6 @@
 ### Hi~ I'm Olivia! 👋
 
-I'm a anti social highschooler who codes sometimes 
+I'm a anti social trans girl who codes sometimes <3
 
 
 If you wish to find me, you can look on my [website](https://spikeyt.com/) ✨
