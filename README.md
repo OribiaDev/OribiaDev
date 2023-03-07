@@ -12,7 +12,7 @@ If you wish to find me, you can look on my [website](https://oribia.dev/) or my 
  **Projects**:
 - [Oribia.Dev](https://github.com/OribiaDev/oribia.dev.github.io) - A portfolio/landing website for myself :3
 - [TrinityWeapons](https://github.com/OribiaDev/TrinityWeapons) - A Minecraft weapons mod for 1.14.x - 1.19.x
-- [Miku](https://github.com/OribiaDev/Miku) - A complex and polished multipurpose Discord bot 
+- [Meii](https://github.com/OribiaDev/Meii) - A powerful and polished multipurpose Discord bot 
 - [CraftTheUncraftable](https://github.com/OribiaDev/CraftTheUncraftable) - A small Minecraft mod to craft thigns that are uncraftable in the game
 - [WackyToolsAndSuch](https://github.com/OribiaDev/WackyToolsAndSuch) - A small Minecraft mod made for a challenge; Adds new blocks and tools
 - [CloudyBoi](https://github.com/OribiaDev/CloudyBoi) - The unfinished remake of TheIronBot
