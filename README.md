@@ -10,7 +10,8 @@ If you wish to find me, you can look on my [website](https://oribia.dev/) or my 
 
 ## 
  **Projects**:
-- [Oribia.Dev](https://github.com/OribiaDev/oribia.dev.github.io) - A portfolio/landing website for myself :3
+- [Oribia.Dev](https://github.com/OribiaDev/oribia.dev.github.io) - A homepage for myself :3
+- [MeiiHomepage](https://github.com/OribiaDev?tab=repositories) - A homepage for my bot Meii
 - [TrinityWeapons](https://github.com/OribiaDev/TrinityWeapons) - A Minecraft weapons mod for 1.14.x - 1.19.x
 - [Meii](https://github.com/OribiaDev/Meii) - A powerful and polished multipurpose Discord bot 
 - [CraftTheUncraftable](https://github.com/OribiaDev/CraftTheUncraftable) - A small Minecraft mod to craft thigns that are uncraftable in the game
