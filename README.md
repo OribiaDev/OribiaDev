@@ -10,7 +10,7 @@ If you wish to find me, you can look on my [website](https://oribia.dev/) or my 
 
 ## 
  **Projects**:
-- [Oribia.Dev](https://github.com/OribiaDev/oribia.dev.github.io) - My personal/portfolio website 
+- [Oribia.Dev](https://github.com/OribiaDev/Oribia.Dev) - My personal/portfolio website 
 - [Meii](https://github.com/OribiaDev/Meii) - A powerful and polished multipurpose Discord bot 
 - [MeiiHomepage](https://github.com/OribiaDev/MeiiHomepage) - A homepage for my Discord bot Meii
 - [TrinityWeapons](https://github.com/OribiaDev/TrinityWeapons) - A Minecraft weapons mod for 1.14.x - 1.19.x
