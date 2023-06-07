@@ -26,4 +26,4 @@ If you wish to find me, you can look on my [website](https://oribia.dev/) or my 
 - [AverageCalculator](https://github.com/OribiaDev/AverageCalculator) - A simple Python script that gets the average from a set of numbers
 
 ##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OribiaDev&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OribiaDev&theme=dark&show_icons=true&PAT_1)
