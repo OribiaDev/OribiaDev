@@ -2,7 +2,7 @@
 
 * 🏳️‍⚧️ Trans Girl Programmer <3
 * 🖥️ CS Major
-* 🎒 Freshman at SUNY Fredonia (2025)
+* 🎒 Freshman at SUNY Fredonia (2027)
 
 
 If you wish to find me, you can look on my [website](https://oribia.dev/)! ✨
