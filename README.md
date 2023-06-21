@@ -1,11 +1,11 @@
 ### Hi~ I'm Olivia! 👋
 
 * 🏳️‍⚧️ Trans Girl Programmer <3
-* 🖥️ Future CS Major
-* 🎒 Senior in HS (2023)
+* 🖥️ CS Major
+* 🎒 Freshman at SUNY Fredonia (2025)
 
 
-If you wish to find me, you can look on my [website](https://oribia.dev/) or my [twitter](https://twitter.com/Oribia_Dev)! ✨
+If you wish to find me, you can look on my [website](https://oribia.dev/)! ✨
 
 
 ## 
